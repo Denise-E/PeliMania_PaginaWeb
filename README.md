@@ -7,15 +7,15 @@ ___
 En PeliMania somos fieles creyentes de que el buen cine no tiene edad, por eso esta págian está dedicado a todos los amantes del cine sin importar su edad, a todos aquellos que quieran entender y saber un poco más respecto a estas películas o que simplemente desean disfrutar de sus días con productos de sus películas favoritas.
 ___
 
-+## ___Referentes___
++ ## ___Referentes___
 - INFORMACIÓN E IMÁGENES SOBRE PÁGINAS SIMILARES QUE TOME DE EJEMPLO !
 ___
 
-+## ___Wireframes___
++ ## ___Wireframes___
 - CARGAR LAS IMÁGENES DE MIS WIREFRAMES
 ___
 
-+## ___Bocetos___
++ ## ___Bocetos___
 - CARGAR LAS IMÁGENES DE MIS BOCETOS
 
 
