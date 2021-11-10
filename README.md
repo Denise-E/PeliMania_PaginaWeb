@@ -9,13 +9,5 @@ ___
 
 + ## ___Referentes___
 INFORMACIÓN E IMÁGENES SOBRE PÁGINAS SIMILARES QUE TOME DE EJEMPLO !
-___
-
-+ ## ___Wireframes___
-CARGAR LAS IMÁGENES DE MIS WIREFRAMES
-___
-
-+ ## ___Bocetos___
-CARGAR LAS IMÁGENES DE MIS BOCETOS
 
 
