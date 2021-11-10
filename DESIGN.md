@@ -9,4 +9,16 @@ ___
 
 + ## ___Tipografía___
 Los estilos tipográficos a utilizar en la página web serán los siguientes:
-  - 
+___
+
++## __Imagotipo___
+CARGAR IMAGEN DEL LOGO
+___
+
++ ## ___Wireframes___
+CARGAR LAS IMÁGENES DE MIS WIREFRAMES
+___
+
++ ## ___Bocetos___
+CARGAR LAS IMÁGENES DE MIS BOCETOS
+
