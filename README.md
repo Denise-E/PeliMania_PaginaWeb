@@ -8,6 +8,26 @@ En PeliMania somos fieles creyentes de que el buen cine no tiene edad, por eso e
 ___
 
 + ## ___Referentes___
-INFORMACIÓN E IMÁGENES SOBRE PÁGINAS SIMILARES QUE TOME DE EJEMPLO !
+  - [___Cuernavilla___](https://cuernavilla.com/)
+       ![Cuernavilla home page]()
+        ```
+  Home Page
+  
+  - [___Games Workshop___](https://www.games-workshop.com/en-GB/Home?_requestid=10410477)
+        ![Games Workshop productos]()
+        ```
+        Demostración de los productos
+___
+  
+  + ## __Wireframes__
+    1. ***Home Page***
+    2. ***Log in***
+    3. ***Registration Page***
+    4. ***Shopping cart***
+___
 
-
+  + ## __Bocetos__
+    1. ***Home Page***
+    2. ***Log in***
+    3. ***Registration Page***
+    4. ***Shopping cart***
