@@ -21,9 +21,19 @@ ___
   
   + ## __Wireframes__
     1. ***Home Page***
-    2. ***Log in***
+      ![Home Page - W .pdf](https://github.com/Denise-E/Proyecto-PeliMania/files/7535015/Home.Page.-.W.pdf)
+    
+    2. ***Log in*** 
+      ![Log In - W .pdf](https://github.com/Denise-E/Proyecto-PeliMania/files/7535011/Log.In.-.W.pdf)
+
     3. ***Registration Page***
+      ![Formulario de Registro - W .pdf](https://github.com/Denise-E/Proyecto-PeliMania/files/7535017/Formulario.de.Registro.-.W.pdf)
+
     4. ***Shopping cart***
+      ![Carrito de Compras - W .pdf](https://github.com/Denise-E/Proyecto-PeliMania/files/7535019/Carrito.de.Compras.-.W.pdf)
+
+    5. ***Product details***
+       ![Detalle de Producto - W .pdf](https://github.com/Denise-E/Proyecto-PeliMania/files/7535020/Detalle.de.Producto.-.W.pdf)
 ___
 
   + ## __Bocetos__
@@ -31,3 +41,4 @@ ___
     2. ***Log in***
     3. ***Registration Page***
     4. ***Shopping cart***
+    5. ***Product details***
