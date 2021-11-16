@@ -44,7 +44,17 @@ ___
 
   + ## __Bocetos__
     1. ***Home Page***
+    <img width="343" alt="home-page" src="https://user-images.githubusercontent.com/93154485/142063311-4d7daf85-8ef3-45e3-b4bb-f1f1c9c3af4f.png">
+
     2. ***Log in***
+    <img width="581" alt="Inicio-sesión" src="https://user-images.githubusercontent.com/93154485/142062249-31a5ef8d-90ec-4807-b148-d54ce03415eb.png">
+
     3. ***Registration Page***
+    <img width="555" alt="Formulario-Registro" src="https://user-images.githubusercontent.com/93154485/142062275-ca6f51a3-bce2-49f7-91e7-7b63c22899f5.png">
+
     4. ***Shopping cart***
+    <img width="561" alt="carrito-compras" src="https://user-images.githubusercontent.com/93154485/142062327-8496673d-03fc-44c9-8bbc-b075d0e9535a.png">
+
     5. ***Product details***
+    <img width="383" alt="detalle-producto" src="https://user-images.githubusercontent.com/93154485/142062350-90d21182-97d9-4378-8930-59b306b32ad1.png">
+___
