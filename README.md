@@ -44,17 +44,18 @@ ___
 
   + ## __Bocetos__
     1. ***Home Page***
-    <img width="343" alt="home-page" src="https://user-images.githubusercontent.com/93154485/142063311-4d7daf85-8ef3-45e3-b4bb-f1f1c9c3af4f.png">
+    <img width="298" alt="Home-page" src="https://user-images.githubusercontent.com/93154485/144851142-d6c40e3b-3fb8-447f-a6c8-511aeddcd983.png">
 
     2. ***Log in***
-    <img width="581" alt="Inicio-sesión" src="https://user-images.githubusercontent.com/93154485/142062249-31a5ef8d-90ec-4807-b148-d54ce03415eb.png">
+    <img width="561" alt="Log-in" src="https://user-images.githubusercontent.com/93154485/144851165-104e0794-25b5-4aaf-932f-e935071ffee1.png">
 
     3. ***Registration Page***
-    <img width="555" alt="Formulario-Registro" src="https://user-images.githubusercontent.com/93154485/142062275-ca6f51a3-bce2-49f7-91e7-7b63c22899f5.png">
+    <img width="562" alt="Crear-cuenta" src="https://user-images.githubusercontent.com/93154485/144851197-1f519192-56e4-4884-81af-db0c87da1721.png">
 
     4. ***Shopping cart***
-    <img width="561" alt="carrito-compras" src="https://user-images.githubusercontent.com/93154485/142062327-8496673d-03fc-44c9-8bbc-b075d0e9535a.png">
+    <img width="562" alt="Carrito-compras" src="https://user-images.githubusercontent.com/93154485/144851224-bd66ea63-39f2-4382-96f3-d04141bfaf44.png">
 
     5. ***Product details***
-    <img width="383" alt="detalle-producto" src="https://user-images.githubusercontent.com/93154485/142062350-90d21182-97d9-4378-8930-59b306b32ad1.png">
+    <img width="412" alt="Detalle-producto" src="https://user-images.githubusercontent.com/93154485/144851248-f66cade6-1296-4fa7-8286-d310422a6558.png">
+
 ___
